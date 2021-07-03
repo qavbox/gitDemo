@@ -4,5 +4,6 @@ public class SampleDemo {
         System.out.println("Welcome");
         System.out.println("JTC INDIA");
         System.out.println("Keep learning");
+        System.out.println("JTC Welcomes");
     }
 }
